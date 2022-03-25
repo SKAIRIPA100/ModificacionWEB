@@ -3,7 +3,7 @@ h1
 {
 font-family:'Fredoka One', cursive;
 text-align:center;
-background-color:purple;
+background-color:red;
 color:white;
 }
 body
@@ -23,7 +23,7 @@ font-weight:bold;
 }
 fieldset
 {
-background-color:silver;
+background-color:green;
 }
 .efecto:hover
 {
